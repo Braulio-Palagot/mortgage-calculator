@@ -30,7 +30,7 @@ export default function Home() {
 
 | bttnText | link | p | r | n         |
 | -------- | ---- | - | - |-----------|
-| The text that will appear on the button | The link that the button will redirect to | The principal amount of the loan | The interest rate of the loan | The term of the loan in years |
+| The text that will appear on the button | The link that will be redirected to | The principal amount of the loan | The interest rate of the loan | The term of the loan in years |
 
 You can either pass the props from your main page or fill them in the component itself. If you pass the props from your
 main page, the component will automatically fill the inputs with the values you passed and calculate the monthly payment.
